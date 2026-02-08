@@ -6,4 +6,4 @@ Idea prompt: A README generator that takes a project directory as input and prod
 None
 
 ## Notes
-Generated using builder `test-driven-builder` (03bd9c0e-3cb3-43e7-b9f1-04992e30ae6b) with fitness 0.150.
+Generated using builder `script-heavy-builder` (18226839-5a75-4241-a10e-e86eb1b6ae06) with fitness 0.150.

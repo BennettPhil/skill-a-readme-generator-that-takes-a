@@ -12,7 +12,7 @@ Implement the idea: A README generator that takes a project directory as input a
 No additional context provided.
 
 # Builder Influence
-Use a concise, validation-first workflow derived from the selected builder guidance: --- name: test-driven-builder-v0 description: Evolved builder using structure_change mutation version: 0.1.0 license: Apache-2.0 ---
+Use a concise, validation-first workflow derived from the selected builder guidance: --- name: script-heavy-builder-v0 description: Evolved builder using hybrid mutation version: 0.1.0 license: Apache-2.0 ---
 
 # Workflow
 1. Clarify assumptions and constraints before implementation.
